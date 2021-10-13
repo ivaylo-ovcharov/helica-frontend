@@ -39,7 +39,7 @@
                     data-sizes="(max-aspect-ratio: 900/600) 150vh"
                     data-width="900"
                     data-height="600"
-                    :src='`https://helica-admin.herokuapp.com${img.url}`'
+                    :src='`${img.url}`'
                   />
                 </li>
               </ul>
@@ -56,7 +56,7 @@
                     data-sizes="(min-width: 100px) 100px"
                     data-width="100"
                     data-height="75"
-                    :src='`https://helica-admin.herokuapp.com${img.url}`'
+                    :src='`${img.url}`'
                 /></a>
               </li>
             </ul>
@@ -142,7 +142,7 @@
                     data-width="1600"
                     data-height="1067"
                     sizes="(min-width: 1600px) 1600px"
-                    :src='`https://helica-admin.herokuapp.com${img.url}`'
+                    :src='`${img.url}`'
                   />
                 </div>
               </div>

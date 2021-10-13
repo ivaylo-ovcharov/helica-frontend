@@ -12,7 +12,7 @@ export default {
   //  <script src="https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js"></script>
 
   head: {
-    title: "Buy stickers with Strapi, Nuxt.js and Snipcart",
+    title: "Helica",
     meta: [{
         charset: 'utf-8'
       },
