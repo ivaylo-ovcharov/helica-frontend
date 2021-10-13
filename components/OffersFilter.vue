@@ -47,8 +47,23 @@
                 class="uk-child-width-auto uk-flex-center uk-grid-small uk-grid-match uk-grid"
                 uk-grid=""
               >
+              <div class="uk-first-column">
+                  <nuxt-link to="/offers">
+                  <a
+                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
+                    uk-scrollspy-class=""
+                    style=""
+                  >
+                    <div
+                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
+                    >
+                      All
+                    </div>
+                  </a>
+                  </nuxt-link>
+                </div>
                 <div v-for="filter in offerFilters" class="uk-first-column">
-                  <nuxt-link :to="`/offers/?slug=${filter.Name}`">
+                  <nuxt-link :to="`/offers?slug=${filter.Name}`">
                   <a
                     class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
                     uk-scrollspy-class=""

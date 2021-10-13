@@ -177,7 +177,7 @@ y                /></a>
 
                 <div class="uk-navbar-item" id="module-90">
                   <div class="uk-margin-remove-last-child custom">
-                    <nuxt-link to="about">
+                    <nuxt-link to="/about">
                     <a
                       class="uk-button uk-button-primary"
                       >About</a
