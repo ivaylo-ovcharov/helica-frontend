@@ -149,7 +149,7 @@
               class="uk-navbar"
             >
               <div class="uk-navbar-left">
-                <nuxt-link to="offers">
+                <nuxt-link to="/">
                 <a
                   class="uk-navbar-item uk-logo"
                 >

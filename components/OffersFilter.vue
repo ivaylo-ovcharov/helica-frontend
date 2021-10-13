@@ -15,6 +15,7 @@
       >
         <div class="uk-grid-item-match uk-width-1-1@m uk-first-column">
           <div class="uk-panel uk-width-1-1">
+            
             <div
               id="page#0-0-0-0"
               class="uk-position-absolute uk-width-1-1 uk-text-left"
@@ -62,7 +63,6 @@
                 </div>
               </div>
             </div>
-
             <div
               id="page#0-0-0-3"
               class="uk-position-absolute uk-width-1-1 uk-text-right"

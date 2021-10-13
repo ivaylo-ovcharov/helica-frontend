@@ -30,9 +30,9 @@
               uk-grid=""
             >
               <div class="uk-first-column">
+                <nuxt-link to="/offer/test-offer">
                 <a
                   class="el-item uk-card uk-card-default uk-card-hover uk-link-toggle uk-display-block uk-scrollspy-inview "
-                  href="/joomla/themes/design-bites/resources/fonts/17-serif/24-bellefair"
                   uk-scrollspy-class=""
                   style=""
                 >
@@ -68,6 +68,7 @@
                     </div>
                   </div>
                 </a>
+                </nuxt-link>
               </div>
               <div>
                 <a
