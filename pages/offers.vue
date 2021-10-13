@@ -1,7 +1,7 @@
 <template>
     <div>
-        <OffersFilter />
-        <OffersList />
+        <OffersFilter :offerFilters="offerFilters" />
+        <OffersList :offers="offers"/>
     </div>
 </template>
 
@@ -12,14 +12,17 @@ import OffersList from "~/components/OffersList.vue"
 export default {
   data() {
     return {
-      products: [],
+      offers: [],
+      offerFilters: [],
       storeUrl: process.env.storeUrl,
       error: null
     }
   },
   async mounted() {
     try {
-      this.products = await this.$strapi.$products.find()
+      // const response = await $http.$get('https://helica-admin.herokuapp.com/offers') 
+      this.offers = await this.$axios.$get('https://helica-admin.herokuapp.com/offers')
+      this.offerFilters = await this.$axios.$get('https://helica-admin.herokuapp.com/categories')
     } catch (error) {
       this.error = error
     }

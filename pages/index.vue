@@ -85,7 +85,7 @@
         </div>
       </div>
     </div>
-    <HomeOffers />
+    <!-- <HomeOffers /> -->
   </div>
 </template>
 

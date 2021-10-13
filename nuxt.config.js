@@ -72,7 +72,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxtjs/strapi'],
+  modules: ['@nuxtjs/strapi', '@nuxt/http', '@nuxtjs/axios'],
   strapi: {
     url: process.env.API_URL || "http://localhost:1337",
     entities: [

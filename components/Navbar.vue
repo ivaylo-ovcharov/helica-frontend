@@ -13,7 +13,7 @@
         <div class="uk-navbar-container">
           <nav uk-navbar="container: .tm-header-mobile" class="uk-navbar">
             <div class="uk-navbar-center">
-              <nuxt-link to="offers">
+              <nuxt-link to="/offers">
               <a
                 class="uk-navbar-item uk-logo"
               >
@@ -106,7 +106,7 @@
                 <div class="uk-panel" id="module-menu-mobile">
                   <ul class="uk-nav uk-nav-primary uk-nav-center">
                     <li class="item-108 uk-parent">
-                      <nuxt-link to="offers">
+                      <nuxt-link to="/offers">
                       <a>
                         Offers</a
                       >
@@ -118,7 +118,7 @@
               <div class="uk-grid-margin uk-first-column">
                 <div class="uk-panel" id="module-91">
                   <div class="uk-margin-remove-last-child custom">
-                    <nuxt-link to="about">
+                    <nuxt-link to="/about">
                     <a
                       class="uk-button uk-button-secondary"
                       >About</a
@@ -165,7 +165,7 @@ y                /></a>
               <div class="uk-navbar-right">
                 <ul class="uk-navbar-nav">
                   <li class="item-108 uk-parent">
-                    <nuxt-link to="offers">
+                    <nuxt-link to="/offers">
                     <a
                       aria-expanded="false"
                     >

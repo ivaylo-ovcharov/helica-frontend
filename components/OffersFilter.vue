@@ -47,19 +47,20 @@
                 class="uk-child-width-auto uk-flex-center uk-grid-small uk-grid-match uk-grid"
                 uk-grid=""
               >
-                <div v-for="filter in filterOptions" class="uk-first-column">
+                <div v-for="filter in offerFilters" class="uk-first-column">
+                  <nuxt-link :to="`/offers/?slug=${filter.Name}`">
                   <a
                     class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/fonts"
                     uk-scrollspy-class=""
                     style=""
                   >
                     <div
                       class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
                     >
-                      {{ filter.name }}
+                      {{ filter.Name }}
                     </div>
                   </a>
+                  </nuxt-link>
                 </div>
               </div>
             </div>
@@ -83,10 +84,12 @@
       </div>
     </div>
   </div>
+  
 </template>
 <script>
 export default {
   name: "OffersFilter",
+  props: ['offerFilters'],
   data () {
     return {
       filterOptions: [
