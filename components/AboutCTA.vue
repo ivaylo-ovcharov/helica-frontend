@@ -334,34 +334,6 @@
                         >Contact Us</a
                       ></span
                     >
-                    <script type="text/javascript">
-                      document.getElementById(
-                        "cloak989cbcd6542ac17a5ee51b4587e93966"
-                      ).innerHTML = "";
-                      var prefix = "&#109;a" + "i&#108;" + "&#116;o";
-                      var path = "hr" + "ef" + "=";
-                      var addy989cbcd6542ac17a5ee51b4587e93966 =
-                        "&#105;nf&#111;" + "&#64;";
-                      addy989cbcd6542ac17a5ee51b4587e93966 =
-                        addy989cbcd6542ac17a5ee51b4587e93966 +
-                        "&#101;x&#97;mpl&#101;" +
-                        "&#46;" +
-                        "c&#111;m";
-                      var addy_text989cbcd6542ac17a5ee51b4587e93966 =
-                        "C&#111;nt&#97;ct Us";
-                      document.getElementById(
-                        "cloak989cbcd6542ac17a5ee51b4587e93966"
-                      ).innerHTML +=
-                        "<a " +
-                        path +
-                        "'" +
-                        prefix +
-                        ":" +
-                        addy989cbcd6542ac17a5ee51b4587e93966 +
-                        '\' class="el-link uk-button uk-button-default">' +
-                        addy_text989cbcd6542ac17a5ee51b4587e93966 +
-                        "<\/a>";
-                    </script>
                   </div>
                 </div>
               </div>

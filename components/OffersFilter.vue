@@ -36,7 +36,7 @@
               style="z-index: 3;"
               uk-scrollspy-class=""
             >
-              All Assets You Are Looking For
+              Find the best job positions for you
             </h1>
             <div
               class="uk-position-relative uk-margin-large uk-text-center"
@@ -46,7 +46,7 @@
                 class="uk-child-width-auto uk-flex-center uk-grid-small uk-grid-match uk-grid"
                 uk-grid=""
               >
-                <div class="uk-first-column">
+                <div v-for="filter in filterOptions" class="uk-first-column">
                   <a
                     class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
                     href="/joomla/themes/design-bites/resources/fonts"
@@ -56,77 +56,7 @@
                     <div
                       class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
                     >
-                      Fonts
-                    </div>
-                  </a>
-                </div>
-                <div>
-                  <a
-                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/brushes"
-                    uk-scrollspy-class=""
-                    style=""
-                  >
-                    <div
-                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
-                    >
-                      Brushes
-                    </div>
-                  </a>
-                </div>
-                <div>
-                  <a
-                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/vectors"
-                    uk-scrollspy-class=""
-                    style=""
-                  >
-                    <div
-                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
-                    >
-                      Vectors
-                    </div>
-                  </a>
-                </div>
-                <div>
-                  <a
-                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/graphics"
-                    uk-scrollspy-class=""
-                    style=""
-                  >
-                    <div
-                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
-                    >
-                      Graphics
-                    </div>
-                  </a>
-                </div>
-                <div>
-                  <a
-                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/mockups"
-                    uk-scrollspy-class=""
-                    style=""
-                  >
-                    <div
-                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
-                    >
-                      Mockups
-                    </div>
-                  </a>
-                </div>
-                <div class="uk-grid-margin uk-first-column">
-                  <a
-                    class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
-                    href="/joomla/themes/design-bites/resources/ui-kits"
-                    uk-scrollspy-class=""
-                    style=""
-                  >
-                    <div
-                      class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
-                    >
-                      UI Kits
+                      {{ filter.name }}
                     </div>
                   </a>
                 </div>
@@ -157,5 +87,26 @@
 <script>
 export default {
   name: "OffersFilter",
+  data () {
+    return {
+      filterOptions: [
+        {
+          name: 'Cookers'
+        },
+        {
+          name: 'Waitress'
+        },
+        {
+          name: 'Hookers'
+        },
+        {
+          name: 'Jogoloes'
+        },
+         {
+          name: 'Stipperz'
+        }
+      ]
+    }
+  }
 };
 </script>

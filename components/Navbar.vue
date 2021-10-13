@@ -13,14 +13,15 @@
         <div class="uk-navbar-container">
           <nav uk-navbar="container: .tm-header-mobile" class="uk-navbar">
             <div class="uk-navbar-center">
+              <nuxt-link to="offers">
               <a
-                href="https://demo.yootheme.com/joomla/themes/design-bites/index.php"
                 class="uk-navbar-item uk-logo"
               >
                 <img
                   alt="Design Bites"
-                  src="/demo/design-bites/images/logo-mobile.svg"
+                  src="https://demo.yootheme.com/demo/design-bites/images/logo-mobile.svg"
               /></a>
+              </nuxt-link>
             </div>
 
             <div class="uk-navbar-right">
@@ -146,20 +147,19 @@
           <div class="uk-container uk-container-expand">
             <nav
               class="uk-navbar"
-              uk-navbar='{"align":"left","boundary":".tm-header .uk-navbar-container","container":".tm-header > [uk-sticky]"}'
             >
               <div class="uk-navbar-left">
+                <nuxt-link to="offers">
                 <a
-                  href="https://demo.yootheme.com/joomla/themes/design-bites/index.php"
                   class="uk-navbar-item uk-logo"
                 >
                   <img
                     alt="Design Bites"
-                    src="/demo/design-bites/images/logo.svg" /><img
+                    src="https://demo.yootheme.com/demo/design-bites/images/logo.svg" /><img
                     class="uk-logo-inverse"
                     alt="Design Bites"
-                    src="/demo/design-bites/images/logo-inverted.svg"
-                /></a>
+y                /></a>
+                </nuxt-link>
               </div>
 
               <div class="uk-navbar-right">
