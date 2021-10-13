@@ -22,9 +22,9 @@ export default {
   async mounted() {
     try {
       // const response = await $http.$get('https://helica-admin.herokuapp.com/offers') 
-      this.offers = await this.$axios.$get('https://helica-admin.herokuapp.com/offers')
+      this.offers = await this.$axios.$get('https://ivaylo-portfolio.herokuapp.com/a-offers')
       this.filteredOffers = this.offers
-      this.offerFilters = await this.$axios.$get('https://helica-admin.herokuapp.com/categories')
+      this.offerFilters = await this.$axios.$get('https://ivaylo-portfolio.herokuapp.com/a-categories')
     } catch (error) {
       this.error = error
     }
@@ -37,7 +37,7 @@ export default {
      '$route.query.slug': {
         handler: function(search) {
           if (search) {
-            this.filteredOffers = this.offers.filter((e) => e.category.Name == this.$route.query.slug)
+            this.filteredOffers = this.offers.filter((e) => e.a_category.name == this.$route.query.slug)
           } else {
             this.filteredOffers= this.offers
           }

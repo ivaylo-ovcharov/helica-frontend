@@ -63,7 +63,7 @@
                   </nuxt-link>
                 </div>
                 <div v-for="filter in offerFilters" class="uk-first-column">
-                  <nuxt-link :to="`/offers?slug=${filter.Name}`">
+                  <nuxt-link :to="`/offers?slug=${filter.name}`">
                   <a
                     class="el-item uk-margin-auto uk-width-small uk-card uk-card-default uk-card-small uk-card-hover uk-card-body uk-margin-remove-first-child uk-link-toggle uk-display-block uk-scrollspy-inview "
                     uk-scrollspy-class=""
@@ -72,7 +72,7 @@
                     <div
                       class="el-title uk-h5 uk-margin-top uk-margin-remove-bottom"
                     >
-                      {{ filter.Name }}
+                      {{ filter.name }}
                     </div>
                   </a>
                   </nuxt-link>

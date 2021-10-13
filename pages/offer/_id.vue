@@ -195,7 +195,7 @@ export default {
    async mounted() {
     try {
       // const response = await $http.$get('https://helica-admin.herokuapp.com/offers') 
-      this.offer = await this.$axios.$get(`https://helica-admin.herokuapp.com/offers/${this.$route.params.id}`)
+      this.offer = await this.$axios.$get(`https://ivaylo-portfolio.herokuapp.com/a-offers/${this.$route.params.id}`)
     } catch (error) {
       this.error = error
     }

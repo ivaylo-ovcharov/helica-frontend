@@ -43,7 +43,7 @@
                       data-width="610"
                       data-height="407"
                       sizes="(min-width: 610px) 610px"
-                      :src="`https://helica-admin.herokuapp.com${offer.image.url}`"
+                      :src="`${offer.image.url}`"
                     />
                   </div>
                   <div class="uk-card-body uk-margin-remove-first-child">
