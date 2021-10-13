@@ -119,7 +119,7 @@
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="https://www.facebook.com"
+                    href="https://www.facebook.com/helica.aeonlix"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
                     >Facebook</a
                   >
