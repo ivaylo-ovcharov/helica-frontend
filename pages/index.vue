@@ -49,7 +49,7 @@
                 style="z-index: 3"
                 uk-scrollspy-class=""
               >
-                Awesome Design <br />Resources
+                Tourism jobs that <br />suits you best.
               </h1>
               <div
                 class="
@@ -63,8 +63,19 @@
                 style="z-index: 3"
                 uk-scrollspy-class=""
               >
-                Explore Our Premium Design Assets to Reinforce Your Creative
-                Flow
+                We help people to find their best seasonal job offers.
+              </div>
+              <div style="display: flex; justify-content: center" class="uk-grid-margin uk-first-column">
+                <div class="uk-panel" id="module-91">
+                  <div class="uk-margin-remove-last-child custom">
+                    <nuxt-link to="/offers">
+                    <a
+                      class="uk-button uk-button-secondary"
+                      >Find job positions</a
+                    >
+                    </nuxt-link>
+                  </div>
+                </div>
               </div>
               <div
                 id="page#0-0-0-3"

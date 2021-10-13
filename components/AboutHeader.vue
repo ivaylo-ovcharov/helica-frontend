@@ -16,8 +16,8 @@
             style="z-index: 3;"
             uk-scrollspy-class=""
           >
-            It’s Our Goal <br class="uk-visible@s" />to Provide Creators
-            <br class="uk-visible@s" />With New Vision
+            It’s Our Goal <br class="uk-visible@s" />to Provide
+            <br class="uk-visible@s" />New Vision
           </h1>
         </div>
 
@@ -51,7 +51,7 @@
             uk-scrollspy-class=""
             style=""
           >
-            Quality Creative Resources for Every Need
+            Job offers for each persona
           </h2>
           <div
             class="uk-panel uk-column-1-2@m uk-column-1-1@s uk-position-relative uk-margin uk-scrollspy-inview "
@@ -119,28 +119,6 @@
                 uk-img=""
                 src="https://demo.yootheme.com/demo/design-bites/images/about-02.svg"
               />
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="uk-grid-item-match uk-flex-middle uk-width-1-2@m uk-grid-margin uk-first-column"
-        >
-          <div class="uk-panel uk-width-1-1">
-            <h2
-              class="uk-h1 uk-width-xlarge uk-scrollspy-inview "
-              uk-scrollspy-class=""
-              style=""
-            >
-              „We craft high quality resources for people like us. We share our
-              knowledge and create content that matters.“
-            </h2>
-            <div
-              class="uk-panel uk-margin-medium uk-scrollspy-inview "
-              uk-scrollspy-class=""
-              style=""
-            >
-              — Audrey Graham, Founder
             </div>
           </div>
         </div>

@@ -12,8 +12,8 @@
         >
           <div class="uk-width-1-2@m uk-first-column">
             <div class="uk-h3 uk-text-left@m uk-text-center">
-              We Offer Awesome Design <br class="uk-visible@s" />Resources to
-              Bring Ideas to Life
+              
+              Tourism jobs that<br class="uk-visible@s" />suits you best.
             </div>
           </div>
 
@@ -27,25 +27,22 @@
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/about"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >About</a
+                    >About Us</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/about#license-faq"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >License &amp; FAQ</a
+                    >Success Stories</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/blog"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
                     >Blog</a
                   >
@@ -54,9 +51,16 @@
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/2-uncategorised/5-imprint"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Imprint</a
+                    >Services</a
+                  >
+                </div>
+              </li>
+              <li class="el-item">
+                <div class="el-content uk-panel">
+                  <a
+                    class="el-link uk-link-muted uk-margin-remove-last-child"
+                    >Careers</a
                   >
                 </div>
               </li>
@@ -69,54 +73,40 @@
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/resources/fonts"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Fonts</a
+                    >Studio</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/resources/brushes"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Brushes</a
+                    >Culture</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/resources/vectors"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Vectors</a
+                    >Awards</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/resources/graphics"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Graphics</a
+                    >Archieve</a
                   >
                 </div>
               </li>
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="/joomla/themes/design-bites/resources/mockups"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Mockups</a
-                  >
-                </div>
-              </li>
-              <li class="el-item">
-                <div class="el-content uk-panel">
-                  <a
-                    href="/joomla/themes/design-bites/resources/ui-kits"
-                    class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >UI Kits</a
+                    >Contact</a
                   >
                 </div>
               </li>
@@ -129,45 +119,9 @@
               <li class="el-item">
                 <div class="el-content uk-panel">
                   <a
-                    href="https://www.facebook.com/yootheme"
+                    href="https://www.facebook.com"
                     class="el-link uk-link-muted uk-margin-remove-last-child"
                     >Facebook</a
-                  >
-                </div>
-              </li>
-              <li class="el-item">
-                <div class="el-content uk-panel">
-                  <a
-                    href="https://www.pinterest.com/"
-                    class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Pinterest</a
-                  >
-                </div>
-              </li>
-              <li class="el-item">
-                <div class="el-content uk-panel">
-                  <a
-                    href="https://www.behance.net/"
-                    class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Behance</a
-                  >
-                </div>
-              </li>
-              <li class="el-item">
-                <div class="el-content uk-panel">
-                  <a
-                    href="https://www.instagram.com/"
-                    class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Instagram</a
-                  >
-                </div>
-              </li>
-              <li class="el-item">
-                <div class="el-content uk-panel">
-                  <a
-                    href="https://twitter.com/yootheme"
-                    class="el-link uk-link-muted uk-margin-remove-last-child"
-                    >Twitter</a
                   >
                 </div>
               </li>
@@ -240,7 +194,7 @@
                 </script>
                 <time datetime="2021-10-13T07:37:03.268Z">2021</time> Design
                 Bites. All rights reserved.<br class="uk-hidden@s" />
-                Powered by <a href="https://yootheme.com/">YOOtheme</a>.
+                Powered by <a href="https://yootheme.com/">Entropy Active</a>.
               </div>
             </div>
           </div>
