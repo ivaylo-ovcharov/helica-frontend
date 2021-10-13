@@ -23,7 +23,7 @@
             </ul>
           </div>
 
-          <h1 class="uk-heading-small">Balou Illustration Set</h1>
+          <h1 class="uk-heading-small">Stripper in Australia </h1>
           <div
             uk-slideshow="ratio: 3:2;"
             class="uk-hidden@m uk-margin uk-slideshow"
@@ -211,7 +211,7 @@
               class="el-content uk-width-1-1 uk-button uk-button-primary uk-button-large"
               href="/joomla/images/yootheme/resources-download.zip"
             >
-              Download
+              Apply
             </a>
           </div>
         </div>
