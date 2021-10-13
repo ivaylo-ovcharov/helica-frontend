@@ -16,23 +16,10 @@
           <div>
             <ul class="uk-breadcrumb uk-margin-remove-bottom">
               <li>
-                <a href="/joomla/themes/design-bites/resources">Resources</a>
+                <nuxt-link to="/offers">
+                  <a>🔙 Back to offers</a>
+                </nuxt-link>
               </li>
-
-              <li>
-                <a href="/joomla/themes/design-bites/resources/vectors"
-                  >Vectors</a
-                >
-              </li>
-
-              <li>
-                <a
-                  href="/joomla/themes/design-bites/resources/vectors/29-illustrations"
-                  >Illustra­tions</a
-                >
-              </li>
-
-              <li><span>Balou Illustration Set</span></li>
             </ul>
           </div>
 
