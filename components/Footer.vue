@@ -156,9 +156,8 @@
                 ><img
                   class="el-image"
                   alt=""
-                  data-src="/demo/design-bites/images/logo.svg"
                   uk-img=""
-                  src="https://demo.yootheme.com/demo/design-bites/images/logo.svg"
+                  src="~/assets/Helica.svg"
                   width="80"
               /></a>
             </div>

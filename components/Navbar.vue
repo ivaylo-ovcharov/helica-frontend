@@ -18,8 +18,9 @@
                 class="uk-navbar-item uk-logo"
               >
                 <img
-                  alt="Design Bites"
-                  src="https://demo.yootheme.com/demo/design-bites/images/logo-mobile.svg"
+                  alt="Helica"
+                  style="height: 28px"
+                  src="~/assets/Helica.svg"
               /></a>
               </nuxt-link>
             </div>
@@ -154,8 +155,9 @@
                   class="uk-navbar-item uk-logo"
                 >
                   <img
-                    alt="Design Bites"
-                    src="https://demo.yootheme.com/demo/design-bites/images/logo.svg" /><img
+                    alt="Helica"
+                    style="height: 28px"
+                    src="~/assets/Helica.svg" /><img
                     class="uk-logo-inverse"
                     alt="Design Bites"
 y                /></a>
