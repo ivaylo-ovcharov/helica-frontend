@@ -90,7 +90,7 @@
               style=""
             >
               <span id="cloaka55220b47fa2e910cf2cb23b7353497e"
-                ><a href="mailto:hi@aeonlix.com">hi@aeonlix.com</a></span
+                ><a style="font-size: 48px" href="mailto:hi@aeonlix.com">hi@aeonlix.com</a></span
               >
               <script type="text/javascript">
                 document.getElementById(

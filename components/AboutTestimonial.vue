@@ -56,15 +56,15 @@
           uk-scrollspy-class=""
           style=""
         >
-          We love long-term relationships. Let’s be full time partners in your business adventures.
+          „We love long-term relationships. Let’s be full time partners in your business adventures.“
         </h2>
-        <!-- <div
+        <div
           class="uk-panel uk-margin-medium uk-scrollspy-inview "
           uk-scrollspy-class=""
           style=""
         >
-          — Audrey Graham, Founder
-        </div> -->
+          — Let's work together
+        </div>
       </div>
     </div>
   </div>

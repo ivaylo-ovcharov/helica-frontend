@@ -57,7 +57,7 @@
           <div
             class="uk-panel uk-column-1-1@s uk-position-relative uk-margin uk-scrollspy-inview "
             uk-scrollspy-class=""
-            style=""
+            style="font-size: 28; text-align: justify"
           >
             No matter how good it is, your work won’t make any difference if it is executed by the wrong people. That’s why it’s crucial for your business to have someone who can help you find the best workers. Someone very, very good. Like ourselves.
           </div>
