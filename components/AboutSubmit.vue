@@ -63,9 +63,9 @@
               style="z-index: 3;"
               uk-scrollspy-class=""
             >
-              Submit Your Work and Join Our Team
+              WE WOULD LIKE TO HEAR FROM YOU
             </h2>
-            <div
+            <!-- <div
               class="uk-panel uk-text-lead uk-margin-medium uk-scrollspy-inview "
               uk-scrollspy-class=""
               style=""
@@ -74,15 +74,15 @@
               accumsa nibhnt ut laoreet dolore magna aliquam erat volutpat wisi
               enim minim veniam, quis nostrud tation ullamcorper autem vel
               suscipit.
-            </div>
+            </div> -->
             <div
               class="uk-panel uk-margin-large uk-margin-remove-bottom uk-scrollspy-inview "
               uk-scrollspy-class=""
               style=""
             >
-              <span class="uk-text-bolder"
+              <!-- <span class="uk-text-bolder"
                 >Get in touch and upload your resources now!</span
-              >
+              > -->
             </div>
             <div
               class="uk-panel uk-text-large uk-margin uk-scrollspy-inview "
@@ -90,7 +90,7 @@
               style=""
             >
               <span id="cloaka55220b47fa2e910cf2cb23b7353497e"
-                ><a href="mailto:email@example.com">email@example.com</a></span
+                ><a href="mailto:hi@aeonlix.com">hi@aeonlix.com</a></span
               >
               <script type="text/javascript">
                 document.getElementById(

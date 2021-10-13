@@ -16,8 +16,9 @@
             style="z-index: 3;"
             uk-scrollspy-class=""
           >
-            It’s Our Goal <br class="uk-visible@s" />to Provide
-            <br class="uk-visible@s" />New Vision
+            <!-- It’s Our Goal <br class="uk-visible@s" />to Provide
+            <br class="uk-visible@s" />New Vision -->
+            SERVICES
           </h1>
         </div>
 
@@ -46,28 +47,19 @@
         uk-grid=""
       >
         <div class="uk-width-2-3@m uk-first-column">
-          <h2
+          <!-- <h2
             class="uk-position-relative uk-margin-medium uk-scrollspy-inview "
             uk-scrollspy-class=""
             style=""
           >
             Job offers for each persona
-          </h2>
+          </h2> -->
           <div
-            class="uk-panel uk-column-1-2@m uk-column-1-1@s uk-position-relative uk-margin uk-scrollspy-inview "
+            class="uk-panel uk-column-1-1@s uk-position-relative uk-margin uk-scrollspy-inview "
             uk-scrollspy-class=""
             style=""
           >
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-            nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-            volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-            ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-            consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate
-            ut ullamcorper suscipit lobortis nisl ut aliquip ea commodo
-            consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate
-            velit esse molestie consequat, vel illum dolore eu feugiat nulla
-            facilisis at vero et accumsan et iusto odio dignissim qui blandit
-            pra luptatum zzril delenit augue duis dolore.
+            No matter how good it is, your work won’t make any difference if it is executed by the wrong people. That’s why it’s crucial for your business to have someone who can help you find the best workers. Someone very, very good. Like ourselves.
           </div>
         </div>
 

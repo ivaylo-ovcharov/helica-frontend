@@ -56,16 +56,15 @@
           uk-scrollspy-class=""
           style=""
         >
-          „We craft high quality resources for people like us. We share our
-          knowledge and create content that matters.“
+          We love long-term relationships. Let’s be full time partners in your business adventures.
         </h2>
-        <div
+        <!-- <div
           class="uk-panel uk-margin-medium uk-scrollspy-inview "
           uk-scrollspy-class=""
           style=""
         >
           — Audrey Graham, Founder
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

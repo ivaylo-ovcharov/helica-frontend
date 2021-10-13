@@ -19,7 +19,7 @@
               >
                 <img
                   alt="Helica"
-                  style="height: 28px"
+                  style="height: 28px;"
                   src="~/assets/Helica.svg"
               /></a>
               </nuxt-link>
@@ -108,7 +108,7 @@
                   <ul class="uk-nav uk-nav-primary uk-nav-center">
                     <li class="item-108 uk-parent">
                       <nuxt-link to="/offers">
-                      <a>
+                      <a style="font-weight: 900">
                         Offers</a
                       >
                       </nuxt-link>
@@ -121,6 +121,7 @@
                   <div class="uk-margin-remove-last-child custom">
                     <nuxt-link to="/about">
                     <a
+                      style="font-weight: 900"
                       class="uk-button uk-button-secondary"
                       >About</a
                     >
@@ -170,6 +171,7 @@ y                /></a>
                     <nuxt-link to="/offers">
                     <a
                       aria-expanded="false"
+                      style="font-weight: 900"
                     >
                       Offers</a
                     >
@@ -182,6 +184,7 @@ y                /></a>
                     <nuxt-link to="/about">
                     <a
                       class="uk-button uk-button-primary"
+                      style="font-weight: 900"
                       >About</a
                     >
                      </nuxt-link>

@@ -3,7 +3,7 @@
       <AboutHeader />
       <AboutTestimonial />
       <AboutSubmit />
-      <AboutCTA />
+      <!-- <AboutCTA /> -->
   </div>
 </template>
 <script>
