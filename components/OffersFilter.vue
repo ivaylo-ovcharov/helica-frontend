@@ -75,7 +75,7 @@
                 target="!*"
                 data-src="/demo/design-bites/images/resources-hero-right.svg"
                 uk-img=""
-                src="https://demo.yootheme.com/demo/design-bites/images/resources-hero-right.svg"
+                src="demo/design-bites/images/resources-hero-right.svg"
               />
             </div>
           </div>
