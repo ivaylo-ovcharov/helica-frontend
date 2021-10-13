@@ -4,6 +4,7 @@
       class="
         uk-section-muted uk-section uk-section-xlarge uk-padding-remove-bottom
       "
+      style="height: 100vh"
       tm-header-transparent="dark"
       uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-fade; delay: false;"
     >
